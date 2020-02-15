@@ -36,7 +36,8 @@ import SearchIcon from '@material-ui/icons/Search';
 
 import Pagination from '@material-ui/lab/Pagination';
 
-const serverURL = 'http://localhost:3031';
+// const serverURL = 'http://localhost:3031';
+const serverURL = 'https://arctouch-back.herokuapp.com/';
 
 const MAX_LENGTH = 150;
 
